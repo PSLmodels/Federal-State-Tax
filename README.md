@@ -23,13 +23,13 @@ The Federal-State Tax Project develops open source tools for analyzing the impac
 
 ## Tools under development
 
--   Weighting repo - A python repo with tools for microdata files to (1) construct initial weights or reweight existing weights so that the microdata file, when weighted, hits or approximates targeted values, and (2) apportion national weights to geographic areas in a manner that hits or approximates targeted values for each region while ensuring that geographic weights for each record sum to the record's national weights.
--   puf_analysis repo - A python repo with tools and programs that construct state weights for the microdata file puf.csv.
+-   [Weighting repo](https://github.com/donboyd5/weighting) -- A python repo with tools for microdata files to (1) construct initial weights or reweight existing weights so that the microdata file, when weighted, hits or approximates targeted values, and (2) apportion national weights to geographic areas in a manner that hits or approximates targeted values for each region while ensuring that geographic weights for each record sum to the record's national weights.
+-   [puf_analysis repo](https://github.com/donboyd5/puf_analysis) -- A python repo with tools and programs that construct state weights for the microdata file puf.csv.
 
 ## Other essential tools this project uses
 
--   Tax-Calculator -- We use the Tax-Calculator microsimulation model for estimating federal individual income and payroll tax liabilities under baseline and reform policy scenarios.
--   Tax Data -- We use TaxData to construct an initial set of national microdata for use with Tax-Calculator, which we then modify and augment.
+-   [Tax-Calculator](github.com/pslmodels/tax-calculator) -- We use the Tax-Calculator microsimulation model for estimating federal individual income and payroll tax liabilities under baseline and reform policy scenarios.
+-   [TaxData](github.com/pslmodels/taxdata) -- We use TaxData to construct an initial set of national microdata for use with Tax-Calculator, which we then modify and augment.
 
 ## Other resources this project offers
 
