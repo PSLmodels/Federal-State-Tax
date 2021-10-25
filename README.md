@@ -2,15 +2,11 @@
 
 The Federal-State Tax Project develops open source tools for analyzing the impacts of federal tax reforms by state. These impacts vary widely across states due to differences in tax-relevant factors such as the income distribution; relative importance of wage, business, and retirement income; and family size and structure. Understanding the state-specific impacts of a reform is important to state and federal policymakers, among others.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
-| Recent project news                                                                                                                          | Type                                       |
-+==============================================================================================================================================+============================================+
-| [Repealing the SALT Cap - State by State Impact](https://www.aei.org/research-products/report/repealing-the-salt-cap-state-by-state-impact/) | Publication (AEI & Rockefeller College)    |
-+----------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
-| [Constructing Tax Data for the 50 States](https://blog.pslmodels.org/demo-day-14-constructing-tax-data-for-the-50-states)                    | Presentation (PSL Demo Days)               |
-+----------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
-| Detailed 50-state tables on SALT-cap repeal \[LINK TK\]                                                                                      | Resource for states, paid (PSL Foundation) |
-+----------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
+|Recent project news | Type |
+| ------ | ------ |
+| [Repealing the SALT Cap - State by State Impact](https://www.aei.org/research-products/report/repealing-the-salt-cap-state-by-state-impact/) | Publication (AEI & Rockefeller College)  |
+| [Constructing Tax Data for the 50 States](https://blog.pslmodels.org/demo-day-14-constructing-tax-data-for-the-50-states) | Presentation (PSL Demo Days)  |
+| Detailed 50-state tables on SALT-cap repeal [LINK TK]  | Resource for states, paid (PSL Foundation) |
 
 ## Project Goals
 
