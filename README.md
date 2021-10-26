@@ -8,7 +8,9 @@ The Federal-State Tax Project develops open source tools for analyzing the impac
 | [Constructing Tax Data for the 50 States](https://blog.pslmodels.org/demo-day-14-constructing-tax-data-for-the-50-states) | Presentation (PSL Demo Days)  |
 | Detailed 50-state tables on SALT-cap repeal [LINK TK]  | Resource for states, paid (PSL Foundation) |
 
-## Project Goals
+## Project goals
+
+This project aims to develop tools that allow users to: 
 
 -   Construct state weights for the Tax-Calculator-ready Public Use File (puf.csv), such that:
 
