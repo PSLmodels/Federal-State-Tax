@@ -37,6 +37,6 @@ This project aims to develop tools that allow users to:
 
 ## Contacts
 
-**Donald Boyd** Co-director, State and Local Government Finance Project, Rockefeller College of Public Affairs and Policy at the University at Albany; Principal, Boyd Research, LLC [linkedin](https://www.linkedin.com/in/donald-boyd-2443276b/) [donboyd5\@gmail.com](mailto:donboyd5@gmail.com){.email}
+**Donald Boyd** Co-director, State and Local Government Finance Project, Rockefeller College of Public Affairs and Policy at the University at Albany; Principal, Boyd Research, LLC [linkedin](https://www.linkedin.com/in/donald-boyd-2443276b/) [donboyd5\@gmail.com](mailto:donboyd5@gmail.com)
 
-**Matt Jensen** Director, Open Source Policy Center, American Enterprise Institute [matthjensen\@gmail.com](mailto:matthjensen@gmail.com){.email}
+**Matt Jensen** Director, Open Source Policy Center, American Enterprise Institute [matthjensen\@gmail.com](mailto:matthjensen@gmail.com)
