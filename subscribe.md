@@ -1,8 +1,7 @@
 # Data subscriptions
 
 The Federal-State Tax Project offers data subscriptions through our fiscal sponsor, the PSL Foundation.
-Subscriptions revenue supports our ongoing project development. 
-These data are unique and not avialable from other sources. 
+Subscription revenue supports our ongoing project development. 
 
 Contact [matthjensen\@gmail.com](mailto:matthjensen@gmail.com) with any questions. 
 
