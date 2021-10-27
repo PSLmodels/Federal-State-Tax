@@ -12,7 +12,7 @@ Data access and use will still be subject to the [PSL Foundation's Data Subscrip
 
 Detailed state by state distribution tables of the impact of SALT cap repeal in 2021. 
 - State distribution table by federal AGI bin ($750/state).
-- Bulk package of distribution tables by federal AGI bin for all 50 states. ($4,500).
+- Bulk package of distribution tables by federal AGI bin for all 50 states ($4,500).
 
 Please click the links above to purchase your files. We will send your files by email within 5 business days. If you select the first, non-bulk, option, please select the quantity you would like, and we will follow up by email to learn which state(s) to send. 
 
