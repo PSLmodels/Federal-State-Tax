@@ -13,7 +13,7 @@ Detailed distribution tables of the impact of SALT cap repeal on state taxpayers
 - [State distribution table by federal AGI bins ($750/state).](https://buy.stripe.com/9AQbKedCW3on1LW4gg)
 - [Bulk package of distribution tables by federal AGI bins for all 50 states ($4,500).](https://buy.stripe.com/00g7tY0Qaf759eocMN)
 
-Please click the links above to purchase your files. We will send your files by email within 5 business days. If you select the first, non-bulk, option, please select the quantity you would like, and we will follow up by email to learn which state(s) to send. 
+Please click the links above to purchase your subscriptions. We will send your files by email within 7 business days. If you select the first, non-bulk, option, please select the quantity you would like, and we will follow up by email to learn which state(s) to include. 
 
 ### Samples
 We have published estimates for California in [_Tax Notes States_](https://www.taxnotes.com/special-reports/tax-cuts-and-jobs-act/repealing-salt-cap-state-state-impacts/2021/10/21/7bbv3), excerpted below. 
