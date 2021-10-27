@@ -4,13 +4,17 @@ The Federal-State Tax Project offers data subscriptions through our fiscal spons
 Subscriptions revenue supports our ongoing project development. 
 These data are unique and not avialable from other sources. 
 
-Contact [matthjensen\@gmail.com](mailto:matthjensen@gmail.com) with any additional questions, 
+Contact [matthjensen\@gmail.com](mailto:matthjensen@gmail.com) with any additional questions. 
+
+Data access and use will still be subject to the [PSL Foundation's Data Subscription Standard Terms and Conditions](https://docs.google.com/document/d/e/2PACX-1vR0mIv7J2DgkyUDJeO2PzC-fT7KC20jmwPObowSkFVwVe39Y4fDz-zAclc-oPDmUrwcND4NFiT8uGLe/pub).
 
 ## Current offerings
 
 Detailed state by state distribution tables of the impact of SALT cap repeal in 2021. 
-- State distribution table by federal AGI bin. ($750/state) 
-- Package of distribution tables by federal AGI bin for all 50 states. ($4,500). 
+- State distribution table by federal AGI bin ($750/state).
+- Bulk package of distribution tables by federal AGI bin for all 50 states. ($4,500).
+
+Please click the links above to purchase your files. We will send your files by email within 5 business days. If you select the first, non-bulk, option, please select the quantity you would like, and we will follow up by email to learn which state(s) to send. 
 
 ### Samples
 We have published estimates for California in [_Tax Notes States_](https://www.taxnotes.com/special-reports/tax-cuts-and-jobs-act/repealing-salt-cap-state-state-impacts/2021/10/21/7bbv3), excerpted below. 
