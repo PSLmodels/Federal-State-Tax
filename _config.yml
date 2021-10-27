@@ -5,6 +5,7 @@ relative_links:
   collections: true
 include:
   - README.md
+  - subscribe.md
  
 
 theme: jekyll-theme-slate
