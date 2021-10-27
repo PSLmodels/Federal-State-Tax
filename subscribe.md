@@ -6,7 +6,7 @@ These data are unique and not avialable from other sources.
 
 Contact [matthjensen\@gmail.com](mailto:matthjensen@gmail.com) with any additional questions. 
 
-Data access and use will still be subject to the [PSL Foundation's Data Subscription Standard Terms and Conditions](https://docs.google.com/document/d/e/2PACX-1vR0mIv7J2DgkyUDJeO2PzC-fT7KC20jmwPObowSkFVwVe39Y4fDz-zAclc-oPDmUrwcND4NFiT8uGLe/pub).
+Data access and use are subject to the [PSL Foundation's Data Subscription Standard Terms and Conditions](https://docs.google.com/document/d/e/2PACX-1vR0mIv7J2DgkyUDJeO2PzC-fT7KC20jmwPObowSkFVwVe39Y4fDz-zAclc-oPDmUrwcND4NFiT8uGLe/pub).
 
 ## Current offerings
 
