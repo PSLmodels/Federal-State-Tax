@@ -6,7 +6,7 @@ The Federal-State Tax Project develops open source tools for analyzing the impac
 | ------ | ------ |
 | [Repealing the SALT Cap - State by State Impact](https://www.aei.org/research-products/report/repealing-the-salt-cap-state-by-state-impact/) | Publication (AEI & Rockefeller College)  |
 | [Constructing Tax Data for the 50 States](https://blog.pslmodels.org/demo-day-14-constructing-tax-data-for-the-50-states) | Presentation (PSL Demo Days)  |
-| Detailed 50-state tables on SALT-cap repeal [LINK TK]  | Resource for states, paid (PSL Foundation) |
+| [Detailed 50-state tables on SALT-cap repeal ](subscribe.md)| Resource for states, paid (PSL Foundation) |
 
 ## Project goals
 
@@ -33,7 +33,7 @@ This project aims to develop tools that allow users to:
 
 -   Repealing the SALT Cap: State by State Impact -- [Report](https://www.aei.org/research-products/report/repealing-the-salt-cap-state-by-state-impact/) using the tools developed by the project to estimate the impact of repealing the TCJA's SALT cap in 2021 on the 50 states.
 -   Constructing Tax Data for the 50 States -- [Technical presentation](https://blog.pslmodels.org/demo-day-14-constructing-tax-data-for-the-50-states) for Policy Simulation Library's Demo Days series on how to produce a state-weighted data file.
--   Detailed state by state tables on the impact of SALT cap repeal -- Subscription for in-depth data access. \[LINK TK\]
+-   Detailed state by state tables on the impact of SALT cap repeal -- [Subscription](susbscribe.md) for in-depth data access. 
 
 ## Contacts
 
