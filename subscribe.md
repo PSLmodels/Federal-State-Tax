@@ -9,9 +9,13 @@ Data access and use are subject to the [PSL Foundation's Data Subscription Stand
 
 ## Current offerings
 
-Detailed distribution tables of the impact of SALT cap repeal on state taxpayers in 2021. 
+Detailed distribution tables of the impact of **SALT cap repeal** on state taxpayers in 2021. 
 - [State distribution table by federal AGI bins ($750/state).](https://buy.stripe.com/9AQbKedCW3on1LW4gg)
 - [Bulk package of distribution tables by federal AGI bins for all 50 states ($4,500).](https://buy.stripe.com/00g7tY0Qaf759eocMN)
+
+Detailed distribution tables of the impact of **increasing the SALT cap to $80,000** on state taxpayers in 2021. 
+- [State distribution table by federal AGI bins ($750/state).](https://buy.stripe.com/bIYbKe42m8IHeyI7sv)
+- [Bulk package of distribution tables by federal AGI bins for all 50 states ($4,500).](https://buy.stripe.com/bIY3dI7eye319eocMO)
 
 Please click the links above to purchase your subscriptions. We will send your files by email within 7 business days. If you select the first, non-bulk, option, please select the quantity you would like, and we will follow up by email to learn which state(s) to include. 
 
